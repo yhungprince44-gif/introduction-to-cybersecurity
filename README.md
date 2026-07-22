@@ -1,15 +1,13 @@
-# Introduction to Cybersecurity
+# Penetration Tester (Ethical Hacker)
 
-## What is Cybersecurity?
-Cybersecurity is the practice of protecting computers, networks, and data from unauthorized access, attacks, or damage.
+**1. Career path:** Penetration Tester (Ethical Hacker)
 
-## Why is Cybersecurity Important?
-It protects personal information, businesses, and organizations from hackers, data breaches, and financial loss.
+**2. Main responsibilities:** I'd be hired to legally hack into a company's systems to find weak spots before real attackers do, then write a report showing what I found and how to fix it.
 
-## Three Examples
-- Online Banking
-- Social Media
-- Online Shopping
+**3. Skills needed:** Networking basics, Linux, some scripting (Python/Bash), how websites work, and how to think like an attacker.
 
-## Career Path I'm Interested In
-Cloud Security because I enjoy cloud computing and want to help keep cloud systems and data safe from threats.
+**4. Tools used:** Nmap, Burp Suite, Metasploit, Wireshark, Nessus.
+
+**5. Why I chose it:** I like problem-solving and figuring out how things break, and I enjoy CTF-style challenges (hacking games where you break into systems to find hidden "flags").
+
+**6. Steps to get there:** Learn networking + Linux basics, practice on TryHackMe/HackTheBox, then aim for a certification like PenTest+ or OSCP.
